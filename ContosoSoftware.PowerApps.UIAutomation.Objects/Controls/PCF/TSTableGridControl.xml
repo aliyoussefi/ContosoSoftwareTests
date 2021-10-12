@@ -1,0 +1,28 @@
+﻿<div class="customControl D365 Pfe.PCF.Samples.TSTableGrid D365.Pfe.PCF.Samples.TSTableGrid" style="width: 100%;" data-id="test_container" data-lp-id="3afe9f86-aee5-409b-830b-01ee1afd7378|test|dyw_pacontrolframeworktester">
+  <div class="SimpleTable_MainContainer_Style" style="height: 785px;">
+    <table class="SimpleTable_Table_Style">
+      <thead>
+        <tr class="SimpleTable_TableRow_Style">
+          <th class="SimpleTable_TableHeader_Style">
+            <div class="SimpleTable_TableCellInnerDiv_Style" style="max-width: 166px;">Name</div>
+          </th>
+          <th class="SimpleTable_TableHeader_Style">
+            <div class="SimpleTable_TableCellInnerDiv_Style" style="max-width: 166px;">Regarding</div>
+          </th>
+          <th class="SimpleTable_TableHeader_Style">
+            <div class="SimpleTable_TableCellInnerDiv_Style" style="max-width: 155px;">Parent Site or Location</div>
+          </th>
+          <th class="SimpleTable_TableHeader_Style">
+            <div class="SimpleTable_TableCellInnerDiv_Style" style="max-width: 178.333px;">Relative URL</div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="No_Record_Style" colspan="4">No records found.</td>
+        </tr>
+      </tbody>
+    </table>
+    <button type="button" class="LoadMoreButton_Hidden_Style LoadMoreButton_Style">Load More</button>
+  </div>
+</div> 

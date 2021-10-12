@@ -1,0 +1,32 @@
+﻿<div class="customControl FCBT PCFControl.DDTFacilityView FCBT.PCFControl.DDTFacilityView" style="width: 100%;" data-id="fcbt_applicationnumber.fieldControl_container">
+  <div class="ms-Fabric root-513">
+    <div class="item">
+      <div>
+        <div class="ms-Stack css-514">
+          <button type="button" class="ms-Button ms-Button--action ms-Button--command root-515" data-is-focusable="true">
+            <span class="ms-Button-flexContainer flexContainer-516" data-automationid="splitbuttonprimary">
+              <i data-icon-name="Add" role="presentation" aria-hidden="true" class="ms-Icon root-32 css-246 ms-Button-icon icon-518" style="font-family: FabricMDL2Icons;"></i>
+              <span class="ms-Button-textContainer textContainer-517">
+                <span class="ms-Button-label label-406" id="id__46">New</span>
+              </span>
+            </span>
+          </button>
+          <button type="button" class="ms-Button ms-Button--action ms-Button--command root-515" data-is-focusable="true">
+            <span class="ms-Button-flexContainer flexContainer-516" data-automationid="splitbuttonprimary">
+              <i data-icon-name="Refresh" role="presentation" aria-hidden="true" class="ms-Icon root-32 css-250 ms-Button-icon icon-518" style="font-family: FabricMDL2Icons-0;"></i>
+              <span class="ms-Button-textContainer textContainer-517">
+                <span class="ms-Button-label label-406" id="id__49">Refresh</span>
+              </span>
+            </span>
+          </button>
+        </div>
+      </div>
+      <br />
+        <div class="item-container">
+          <div class="ms-Stack css-520">
+            <div class="ms-Stack css-521"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>

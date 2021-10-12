@@ -1,0 +1,6 @@
+﻿<div class="customControl SampleNamespace TSLinearInputControl SampleNamespace.TSLinearInputControl" data-id="dyw_wholenumber.fieldControl_container" style="width: 100%;">
+  <div>
+    <input type="range" min="1" max="1000" class="linearslider" id="linearrangeinput" value="495" />
+      <label class="TS_LinearRangeLabel" id="lrclabel">495</label>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿<div class="customControl SampleNamespace TSDataSetGrid SampleNamespace.TSDataSetGrid" style="width: 100%;" data-id="entity_control_container" data-lp-id="64ffc3e0-10fa-4a7d-962b-cabeca33ca26|entity_control|dyw_pacontrolframeworktester">
+  <div class="DataSetControl_main-container" style="max-height: 686px;">
+    <div class="DataSetControl_grid-container">
+      <div>
+        <div class="DataSetControl_grid-item" rowrecid="0faf1f00-5e5a-ea11-a811-000d3a5466d8">
+          <p class="DataSetControl_grid-text-label">Name : </p>
+          <p class="DataSetControl_grid-text-value">ewfwefewf</p>
+          <p class="DataSetControl_grid-text-label">Owner : </p>
+          <p class="DataSetControl_grid-text-value">Ali Youssefi</p>
+          <p class="DataSetControl_grid-text-label">Status : </p>
+          <p class="DataSetControl_grid-text-value">Active</p>
+        </div>
+        <div class="DataSetControl_grid-item" rowrecid="61e856f6-cbbe-e911-a98c-000d3a1be7ad">
+          <p class="DataSetControl_grid-text-label">Name : </p>
+          <p class="DataSetControl_grid-text-value">test</p>
+          <p class="DataSetControl_grid-text-label">Owner : </p>
+          <p class="DataSetControl_grid-text-value">Ali Youssefi</p>
+          <p class="DataSetControl_grid-text-label">Status : </p>
+          <p class="DataSetControl_grid-text-value">Active</p>
+        </div>
+        <div class="DataSetControl_grid-item" rowrecid="3c3d1059-5f5a-ea11-a811-000d3a5466d8">
+          <p class="DataSetControl_grid-text-label">Name : </p>
+          <p class="DataSetControl_grid-text-value">test</p>
+          <p class="DataSetControl_grid-text-label">Owner : </p>
+          <p class="DataSetControl_grid-text-value">Ali Youssefi</p>
+          <p class="DataSetControl_grid-text-label">Status : </p>
+          <p class="DataSetControl_grid-text-value">Active</p>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="DataSetControl_LoadMoreButton_Hidden_Style DataSetControl_LoadMoreButton_Style">Load More</button>
+  </div>
+</div>

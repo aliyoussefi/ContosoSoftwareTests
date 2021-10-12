@@ -1,0 +1,9 @@
+﻿<div class="customControl DG PC.QnAMakerControl DG.PC.QnAMakerControl" data-id="dyw_multiplelinesoftext.fieldControl_container" style="width: 100%;">
+  <div>
+    <span class="fas fa-robot fa-2x span-bot-Style"></span>
+    <input type="label" placeholder="Type a question..." class="question_Input_Style" />
+      <button class="ask_Button_Style">Ask</button>
+      <label type="label" class="answer_Input_Style"></label>
+  </div>
+</div>
+                    
